@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+
+config.json
+application.yaml
+device.json
+*.png
